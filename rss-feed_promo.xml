@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Promotion Feed</title><link>http://example.com/rss</link><description>Latest promotions and deals</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 17 Jun 2024 05:23:52 +0000</lastBuildDate><item><title>👌Placa Mãe X99 MACHINIST MR9A
+</title><link>http://example.com</link><description>👌Placa Mãe X99 MACHINIST MR9A
+
+💲 Valor:  R$ 249 
+-Cupom RECLAMEAQUI20 + 754 Moedas No APP
+
+👀https://a.aliexpress.com/_ooKJYhM
+
+✅BOT DE DESCONTOS: @FafaPromobot</description><enclosure url="http://example.com/path/to/image/AgACAgEAAxkBAANGZm_ITOE0T7GUz58hXvUG2r-yyZsAAjKtMRvAUXhH6pvrFGd-rQkBAAMCAAN4AAM1BA" length="0" type="image/jpeg"/></item></channel></rss>
