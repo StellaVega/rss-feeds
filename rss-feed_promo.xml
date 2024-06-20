@@ -1,10 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Promotion Feed</title><link>http://example.com</link><description>Latest promotions and deals</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>pt-br</language><lastBuildDate>Thu, 20 Jun 2024 21:11:22 +0000</lastBuildDate><item><title>🔥 Fone de Ouvido Bluetooth A6S por preço REAIS!</title><link>https://s.click.aliexpress.com/e/_oFUzqbc</link><description>⚠️ Fone de Ouvido Bluetooth A6S TWS Wireless com Microfone para iPhone Xiaomi
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Promotion Feed</title>
+    <link>http://example.com</link>
+    <description>Latest promotions and deals</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 20 Jun 2024 21:39:30 +0000</lastBuildDate>
+    <item>
+      <title>🔥 Lenovo GM2Pro Bluetooth Earphones por preço REAIS!</title>
+      <link>https://s.click.aliexpress.com/e/_oDgOPIA</link>
+      <description>⚠️ Fones de ouvido esportivos sem fio com tecnologia Bluetooth 5.3. Dual Mode para jogos e música!
 
 
 
-🎟️ Cupom: Sem cupom disponível no momento." 
-
-
-
-Se precisar de mais alguma coisa, estou à disposição!</description><enclosure url="https://raw.githubusercontent.com/StellaVega/rss-feeds/main/cache-image/1005006243255958-01.jpg" length="0" type="image/jpeg"/></item></channel></rss>
+🎟️ Sem cupom disponível.</description>
+      <guid isPermaLink="false">3251904b-7f4c-4a09-8a04-5e73c52cfb74</guid>
+      <enclosure url="https://raw.githubusercontent.com/StellaVega/rss-feeds/main/cache-image/1005006737219869-01.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Jun 2024 21:39:30 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
